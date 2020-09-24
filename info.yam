@@ -1,7 +1,7 @@
 NAME=yam-example-package
 VERSION=v1.0
 LINK=github.com/Z3r0ish/yam-example-package/
-COMMIT=0f86ca17e56615b4df1ffb06d7355b5331d8e589
+COMMIT=14b95490ca8282ed9e5851955154851f26093b5e
 AUTHOR=Z3r0ish 
 INSTALL_SCRIPT=install.sh
 CONFIG=config.conf
